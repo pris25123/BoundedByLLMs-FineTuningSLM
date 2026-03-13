@@ -1,6 +1,8 @@
-#Bounded By LLMs
-###Priyanka S - PES1UG23AM219
-###Padarthi Neha Sai - PES1UG23AM200
+# Bounded By LLMs
+
+### Priyanka S - PES1UG23AM219
+
+### Padarthi Neha Sai - PES1UG23AM200
 ---
 
 ## 🔍 Overview
