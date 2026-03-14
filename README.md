@@ -163,7 +163,7 @@ import torch
 from PIL import Image
 
 # Load all three components directly from HuggingFace Hub
-hf_model_name = "foreseeitwithme/rico-vit-gpt2-finetuned"
+hf_model_name = "pes1ug23am219/rico-vit-gpt2-finetuned"
 
 model = VisionEncoderDecoderModel.from_pretrained(hf_model_name)
 feature_extractor = ViTImageProcessor.from_pretrained(hf_model_name)
