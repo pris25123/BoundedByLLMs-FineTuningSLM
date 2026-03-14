@@ -25,7 +25,7 @@ The full pipeline — data loading, preprocessing, fine-tuning, evaluation, and 
 
 The fine-tuned model is publicly available on HuggingFace Hub:
 
-**[pnehasai/rico-screen-caption-model](https://huggingface.co/pnehasai/rico-screen-caption-model)**
+**[pes1ug23am219/rico-vit-gpt2-finetuned](https://huggingface.co/pes1ug23am219/rico-vit-gpt2-finetuned)**
 
 The repository contains all three required components:
 - Model weights (`pytorch_model.bin`)
